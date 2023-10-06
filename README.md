@@ -1,2 +1,2 @@
 # Blender
-Blender Projects
+This Repository stores some of my Blender Projects.
